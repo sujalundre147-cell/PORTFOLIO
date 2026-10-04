@@ -24,3 +24,13 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+body {
+  cursor: none;
+}
+
+a,
+button,
+input,
+textarea {
+  cursor: none;
+}
